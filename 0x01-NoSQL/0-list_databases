@@ -1,0 +1,3 @@
+# list all dadabases in MongoDB
+
+show databases
