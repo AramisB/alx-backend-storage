@@ -1,3 +1,3 @@
-# list all dadabases in MongoDB
+// list all databases in MongoDB
 
 show databases
